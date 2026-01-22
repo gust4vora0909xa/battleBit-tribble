@@ -1,4 +1,5 @@
 # BattleBit Ultimate Enhancement Tool 2026
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/28f033c0-983d-41d3-9bf5-83e44af1e7a5" />
 
 **BattleBit Remastered is the ultra-low-poly massive multiplayer FPS from SgtOkiDoki, Vilaskis, and TheLiquidHorse, delivering 254-player battles with huge maps, full destruction, vehicles (tanks, helicopters, APCs, jeeps), squad play, building fortifications, and fast-paced gunplay. Choose classes (Assault, Support, Engineer, Recon, Medic), customize loadouts, revive teammates, repair vehicles, capture objectives, and dominate in modes like Conquest, Rush, Frontline, Domination, and Invasion. With procedural destruction, low system requirements, crosshair customization, and constant updates — BattleBit Remastered is the ultimate large-scale FPS. Now you have access to a complete set of tools for maximum control: perfect precision, full visibility, unlimited resources, enhanced movement and much more — dominate every server and lead your squad to victory without limitations.**
 
